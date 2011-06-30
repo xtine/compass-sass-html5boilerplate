@@ -1,0 +1,1 @@
+This is currently my setup for a static project using the Compass Framework + SASS. I opted to not use Compass' reset and instead using the HTML5Boilerplate CSS stylesheet for a base reset.
