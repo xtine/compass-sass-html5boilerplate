@@ -2,5 +2,5 @@ This is currently my setup for a static project using the Compass Framework + SA
 
 All Compass+SASS related files are in the /compass folder.  
 The config file is set up to be ready to go, just run the command:  
-`compass watch compass`  
+`compass watch`  
 And then all your changes in the SASS files will be compiled into the css folder.
