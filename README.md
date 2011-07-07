@@ -11,4 +11,4 @@ The config file is set up to be ready to go. For your edits in /compass/sass/ cs
 * <a href="http://html5boilerplate.com/">HTML5 Boilerplate</a>
 * <a href="http://compass-style.org/">Compass Framework</a>
 * <a href="http://sass-lang.com/">SASS</a>
-* <a href="http://lessframework.com/>Less Framework 4</a>
+* <a href="http://lessframework.com/">Less Framework 4</a>
