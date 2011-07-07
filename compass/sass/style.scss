@@ -8,8 +8,30 @@
 @import "partials/footer";
 @import "partials/ie";
 
+//  Less Framework 4
+//  http://lessframework.com
+//  by Joni Korpi
+//  License: http://creativecommons.org/licenses/MIT/  */
+//  Default Layout: 992px.
+//  Gutters: 24px.
+//  Outer margins: 48px.
+//  Leftover space for scrollbars @1024px: 32px.
+//  -------------------------------------------------------------------------------
+//  cols    1     2      3      4      5      6      7      8      9      10
+//  px      68    160    252    344    436    528    620    712    804    896
+
+
 body {
   @include typeface;
+  width: 896px;
+  padding: 72px 48px 84px;
+  margin: 0 auto;
+
+  /* Stops Mobile Safari from auto-adjusting font-sizes */
+  -webkit-text-size-adjust: 100%;
 }
 
 #container {}
+
+// Responsive Design
+@import "modules/less";
