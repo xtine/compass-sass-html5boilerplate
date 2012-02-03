@@ -1,5 +1,5 @@
 /* HTML5 Boilerplate
- * ==|== normalize ==========================================================
+ * ==|== normalize.css ==========================================================
  */
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
   display: block;
@@ -302,20 +302,6 @@ td {
   visibility: hidden;
 }
 
-.clearfix:before, .clearfix:after {
-  content: "";
-  display: table;
-}
-
-.clearfix:after {
-  clear: both;
-}
-
-.clearfix {
-  zoom: 1;
-}
-
-/* Any styles targetting IE go here */
 body {
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "Helvetica", Arial, sans-serif;
 }
