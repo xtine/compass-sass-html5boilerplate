@@ -1,5 +1,6 @@
-var AppNamespace = $(function () {
+$(function () {
     'use strict';
-    // Change name of the Namespace variable and start writing your JavaScript here
 
-})();
+    // JS starts here.
+
+}());
