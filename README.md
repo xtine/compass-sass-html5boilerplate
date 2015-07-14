@@ -1,3 +1,8 @@
+#UPDATE!
+__I've created a new project called <a href="https://github.com/xtine/firestarter">firestarter</a> using gulp/bourbon instead.__<br/>
+*I will no longer maintain this repo and will be leaving it here for legacy reasons.*
+
+
 # Description #
 This is my setup for bootstrapping a static web project with using Compass, SASS, and HTML5 Boilerplate.
 
